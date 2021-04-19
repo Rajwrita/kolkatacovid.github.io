@@ -39,7 +39,7 @@ title: Kolkata Covid Help
 tagline: 'Kolkata Covid Help'
 description: 'Kolkata Covid Help'
 keywords: 'kolkata, india, west bengal, covid, help, west, bengal, covid19, covid-19, corona, coronavirus, virus'
-url: https://kolkatacovid.github.io
+url: https://kolkatacovid.org
 baseurl: /
 assets: /assets
 images: /images/
@@ -47,22 +47,22 @@ image: index-large.jpg
 logo: /assets/icons/apple-icon-144x144.png
 
 author:
-  name: Connor Bär
-  bio: Hi, I'm Connor, the author of this blog. Nice to meet you!
+  name: GDG Kolkata
+  bio: This is a community effort of Google Developers Group Kolkata
   image: author
-  url: https://connorbaer.co
+  url: https://kolkatacovid.org
   email: hello@connorbaer.co
-  twitter: connor_baer
+  twitter: gdgkolkata
 
 social:
-  twitter: https://twitter.com/connor_baer
-  instagram: https://instagram.com/connor_baer
-  github: https://github.com/connor-baer/summer
+  twitter: https://twitter.com/gdgkolkata
+  instagram: https://instagram.com/gdgkolkata
+  github: https://github.com/gdgkolkata
 
 version: 2.0.0
 
 github:
-  repo: https://github.com/connor-baer/summer
+  repo: https://github.com/kolkatacovid/kolkatacovid.github.io
 
 # Integrations
 # typekit:              fcv7rfe
