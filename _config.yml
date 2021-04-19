@@ -77,8 +77,8 @@ google_fonts:
 excerpt_separator: <!-- Read more -->
 
 navigation:
-  GitHub: https://github.com/connor-baer/summer
-  Download: https://github.com/connor-baer/summer/archive/gh-pages.zip
+  GitHub: https://github.com/kolkatacovid/kolkatacovid.github.io
+  Download: https://github.com/kolkatacovid/kolkatacovid.github.io
 
 collections:
   recipes:
