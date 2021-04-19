@@ -35,12 +35,12 @@ compress_html:
 dark_theme: false
 
 # Site meta
-title: Summer
-tagline: 'Delicious & healthy recipes'
-description: 'A simple Jekyll theme with a photo sidebar.'
-keywords: 'connor, bär, designer, traveller, code, jekyll, developer, theme'
-url: https://connor-baer.github.io
-baseurl: /summer
+title: Kolkata Covid Help
+tagline: 'Kolkata Covid Help'
+description: 'Kolkata Covid Help'
+keywords: 'kolkata, india, west bengal, covid, help, west, bengal, covid19, covid-19, corona, coronavirus, virus'
+url: https://kolkatacovid.github.io
+baseurl: /
 assets: /assets
 images: /images/
 image: index-large.jpg
